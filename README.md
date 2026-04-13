@@ -71,7 +71,7 @@ This project works with the medical charges dataset to predict annual medical ch
 ## Files in This Repository
 
 ```
-├── lec-1.ipynb              # Main Jupyter notebook with all code and analysis
+├── linear_regression.ipynb              # Main Jupyter notebook with all code and analysis
 ├── medical.csv              # Dataset file
 ├── anaconda_projects/       # Anaconda project configuration
 └── README.md                # This file
@@ -79,7 +79,7 @@ This project works with the medical charges dataset to predict annual medical ch
 
 ## How to Use
 
-1. **Open the notebook**: `lec-1.ipynb`
+1. **Open the notebook**: `linear_regression.ipynb`
 2. **Install required packages** (if not already installed):
    ```bash
    pip install pandas numpy matplotlib seaborn plotly scikit-learn jupyter
